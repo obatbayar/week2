@@ -1,0 +1,15 @@
+.top {
+	background-color: black;
+	height: 40px;
+	width: 100%;
+	border-style: block;
+}
+li {
+	color: white;
+	font-size: 20px;
+	padding: 5px 32px; 
+	margin: 2px;
+	display: inline-block;
+	font-style: normal;
+	font-family: 'Raleway', sans-serif;
+}
